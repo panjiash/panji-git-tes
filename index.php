@@ -10,6 +10,7 @@
 
 <body>
     <h1>git remote dari local</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt accusantium sequi sapiente eum dolores, alias, modi officiis odit natus praesentium facere nihil sint laudantium maxime quam magnam eos reiciendis recusandae?</p>
 </body>
 
 </html>
